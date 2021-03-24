@@ -1,0 +1,3 @@
+# from napari_myfirstplugintest import threshold, image_arithmetic
+
+# add your tests here...
