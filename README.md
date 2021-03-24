@@ -1,10 +1,10 @@
 # napari-myfirstplugintest
 
-[![License](https://img.shields.io/pypi/l/napari-myfirstplugintest.svg?color=green)](https://github.com/justinelarsen/napari-myfirstplugintest/raw/master/LICENSE)
+[![License](https://img.shields.io/pypi/l/napari-myfirstplugintest.svg?color=green)](https://github.com/justinelarsen/napari-myfirstplugintest/raw/main/LICENSE)
 [![PyPI](https://img.shields.io/pypi/v/napari-myfirstplugintest.svg?color=green)](https://pypi.org/project/napari-myfirstplugintest)
 [![Python Version](https://img.shields.io/pypi/pyversions/napari-myfirstplugintest.svg?color=green)](https://python.org)
 [![tests](https://github.com/justinelarsen/napari-myfirstplugintest/workflows/tests/badge.svg)](https://github.com/justinelarsen/napari-myfirstplugintest/actions)
-[![codecov](https://codecov.io/gh/justinelarsen/napari-myfirstplugintest/branch/master/graph/badge.svg)](https://codecov.io/gh/justinelarsen/napari-myfirstplugintest)
+[![codecov](https://codecov.io/gh/justinelarsen/napari-myfirstplugintest/branch/main/graph/badge.svg)](https://codecov.io/gh/justinelarsen/napari-myfirstplugintest)
 
 My first napar plugin to test creating a plugin
 
